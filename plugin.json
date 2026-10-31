@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Validates messy timesheets before payroll: flags double entries, missing breaks, overtime anomalies.",
+  "keywords": [
+    "cleaner",
+    "kairos",
+    "payroll",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-payroll-cleaner",
+  "repository": "https://github.com/baselam88/kairos-payroll-cleaner-plugin",
+  "version": "0.1.0"
+}
